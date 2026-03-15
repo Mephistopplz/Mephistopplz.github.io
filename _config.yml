@@ -17,9 +17,11 @@ timezone: "Australia/Melbourne"
 
 title: "Glowacki" # the main title
 
-tagline: "Cybersecurity Analyst" # it will display as the subtitle
+tagline: "tagline: Cybersecurity Student | Networking | Defensive Security | AI Security Research
+" # it will display as the subtitle
 
-# description: ""
+ description: "description: Cybersecurity student documenting hands-on labs, networking studies,
+  threat detection experiments, and applied AI security research."
  # used by seo meta and the atom feed
  # A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
@@ -29,7 +31,7 @@ url: "https://glowacki-shannon.github.io"
 
 
 github:
-  username: "Glowacki-Shannon" # change to your GitHub username
+  username: "Mephistopplz" # change to your GitHub username
 
 # -  twitter:
 # -  username: twitter_username # change to your Twitter username
